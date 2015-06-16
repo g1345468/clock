@@ -1,3 +1,5 @@
+// てすと
+
 package com.github.clock;
 
 import java.io.PrintWriter;
